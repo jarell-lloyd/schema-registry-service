@@ -1,0 +1,5 @@
+echo "listeners=http://0.0.0.0:8081"
+echo "kafkastore.connection.url=localhost:2181"
+echo "kafkastore.topic=_schemas"
+echo "debug=true"
+
